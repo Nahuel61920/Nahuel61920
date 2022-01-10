@@ -1,6 +1,6 @@
 ### Hola. Soy Esteban Carrizo 👋
 
-- 🔭 Me especializo en el desarrollo web Front-end
+- 🔭 Me especializo en el desarrollo web Front-End
 - 🖥️ Estudiando: Phyton 
 <div align="center">
   <a href="https://github.com/Nahuel61920">
