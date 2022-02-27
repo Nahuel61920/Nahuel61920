@@ -7,6 +7,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+  
+##  Skills ⚡
 <div style="display: inline_block"><br>
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +28,7 @@
   <img align="right" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
  
-  ##
+##  Contactos :speech_balloon:
  
 <div>
   <a href = "mailto:estebancarrizo619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
