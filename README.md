@@ -1,7 +1,7 @@
 ### Hola. Soy Esteban Carrizo 👋
 
 - 🔭 Me especializo en el desarrollo web Front-End
-- 🖥️ Estudiando: React 
+- 🖥️ Estudiando: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <div align="center">
   <a href="https://github.com/Nahuel61920">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
