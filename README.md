@@ -1,4 +1,4 @@
-### Hello. I'm Esteban Carrizo👋
+### Hello. I'm Esteban Carrizo 👋
 
 - 🔭 I specialize in Front-End web development
 - 🖥️ Studying: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
