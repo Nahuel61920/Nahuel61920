@@ -4,8 +4,8 @@
 - 🖥️ Studying: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <div align="center">
   <a href="https://github.com/Nahuel61920">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
 ##  Skills ⚡
@@ -22,6 +22,12 @@
   <img align="center" title="SwiperJS" alt="SwiperJS" height="30" width="40" src="https://cms-assets.tutsplus.com/uploads/users/780/posts/39427/image-upload/68747470733a2f2f6769746875622e7375726d6f6e2e6d652f696d616765732f636f6d6d6f6e2f7377697065722d6c6f676f2e737667.svg" />
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div> 
+  
+#### Back-end:
+<div>
+  <img align="center" title="PHP8" alt="PHP8" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" title="nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
 #### Tools:
 <div>
