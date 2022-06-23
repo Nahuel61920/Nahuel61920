@@ -10,10 +10,9 @@
     <p align="center">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=github_dark&hide_border=true" />
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=github-dark-blue&hide_border=true" />
-      <img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-    </p>
-    <p align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahuel61920&theme=github_dark&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahuel61920&theme=github_dark&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
   </a>
   <p  align="center">
@@ -58,7 +57,10 @@
   <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-    
+## 🏆 GitHub Profile Trophy:
+<a href="https://github.com/Nahuel61920/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
  
   ![Snake animation](https://github.com/Nahuel61920/Nahuel61920/blob/output/github-contribution-grid-snake.svg)
  
