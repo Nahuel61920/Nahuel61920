@@ -5,16 +5,14 @@
 <div align="center">
   <a href="https://github.com/Nahuel61920">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=github_dark&hide_border=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=github-dark-blue&hide_border=true" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=github_dark&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=github-dark-blue&hide_border=true" />
+      <img heigth="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
     </p>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
       <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
     </p>
   </a>
-
-
   <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
