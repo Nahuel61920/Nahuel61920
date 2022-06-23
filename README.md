@@ -4,8 +4,20 @@
 - 🖥️ Studying: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <div align="center">
   <a href="https://github.com/Nahuel61920">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=blue-green"/>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nahuel61920&show_icons=true&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nahuel61920&theme=github-dark-blue&hide_border=true" />
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel61920&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+      <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
+    </p>
+  </a>
+
+
+  <p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <br>
 </div>
   
 ##  Skills ⚡
