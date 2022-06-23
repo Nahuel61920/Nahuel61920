@@ -1,7 +1,10 @@
-### Hello. I'm Esteban Carrizo 👋
+## Hello. I'm Esteban Carrizo 👋
 
 - 🔭 I specialize in Front-End web development
-- 🖥️ Studying: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+- 📖 Student: <img title="React" alt="React" height="10" width="45" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png">
+- 🖥️  Studying: React<img title="React" alt="React" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+##  GitHub Analytics ⚙️
 <div align="center">
   <a href="https://github.com/Nahuel61920">
     <p align="center">
