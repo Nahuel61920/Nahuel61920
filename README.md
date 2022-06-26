@@ -1,4 +1,4 @@
-## Hello. I'm Esteban Carrizo 👋
+# Hello. I'm Esteban Carrizo 👋
 
 - 🔭 I specialize in Front-End web development
 - 📖 Student: <img title="React" alt="React" height="10" width="45" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png">
@@ -57,7 +57,7 @@
   <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## GitHub Profile Trophy: 🏆 
+## GitHub Profile Trophy 🏆 
 <a href="https://github.com/Nahuel61920/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
