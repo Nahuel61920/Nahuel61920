@@ -63,6 +63,4 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
  
-  ![Snake animation](https://github.com/Nahuel61920/Nahuel61920/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
