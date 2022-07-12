@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nahuel61920&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
+
 # Hello. I'm Esteban Carrizo 👋
 
 - 🔭 I specialize in Front-End web development
@@ -71,7 +73,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/AdityaKumar28">
+  <a href="https://github.com/Nahuel61920">
     <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
   </a>
 </p>
@@ -82,3 +84,4 @@
 <br>
 
 </div>
+
