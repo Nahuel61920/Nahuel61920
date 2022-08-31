@@ -39,9 +39,17 @@
 #### Back-end:
 <div>
   <img align="center" title="PHP8" alt="PHP8" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" title="nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+#### Database: 
+  <img align="center" title="Mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg>
+
+#### Blockchain:
+  <img align="center" title="Truffle" alt="truffle" height="30" width="40" src="https://camo.githubusercontent.com/40f4d326f985029ba781d77e42f1c02f9ddf9794fbf4d9003ca51596c8fda8d5/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f542f74727566666c652d6c6f676f2d333537343534313731442d7365656b6c6f676f2e636f6d2e706e67">
+  <img align="center" title="Solidity" alt="solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
+  <img align="center" title="Ganache" alt="ganache" height="30" width="40" src="https://camo.githubusercontent.com/78eadbb97a526c0ac8a848461620015ca16b08e50677437743541eb12e91d41d/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f472f67616e616368652d6c6f676f2d314542373230383441382d7365656b6c6f676f2e636f6d2e706e67">
   
 #### Tools:
 <div>
