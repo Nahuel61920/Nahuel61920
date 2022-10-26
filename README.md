@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nahuel61920&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
 
 # Hello. I'm Esteban Carrizo 👋
-a
+
 - 🔭 I specialize in Full-Stack web development
 - 🖥️  Studying: Java<img title="Java" alt="Java" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
