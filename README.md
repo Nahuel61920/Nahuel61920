@@ -3,7 +3,7 @@
 # Hello. I'm Esteban Nahuel Carrizo 👋
 
 - 🔭 I specialize in Full-Stack web development
-- 🖥️  Studying: Java<img title="Java" alt="Java" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+- 🖥️  Studying: Java <img title="Java" alt="Java" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 ##  GitHub Analytics ⚙️
 <div align="center">
